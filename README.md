@@ -4,7 +4,7 @@ This repository contains tasks completed as part of a **Virtual Internship** in 
 
 ---
 
-## Tools & Libraries Used
+## Libraries Used
 
 - Python 3
 - Pandas
@@ -15,6 +15,13 @@ This repository contains tasks completed as part of a **Virtual Internship** in 
 
 ---
 
+## Tools Used
+
+- Jupyter Notebook
+- VS Code
+
+  ---
+  
 ## Completed Tasks
 
 ###  Task 1: Exploring and Visualizing the Iris Dataset
