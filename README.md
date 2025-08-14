@@ -28,10 +28,10 @@ This repository contains tasks completed as part of a **Virtual Internship** in 
 - Loaded the Iris dataset using pandas
 - Displayed basic structure using `.shape`, `.columns`, `.head()`
 - Visualized:
-  - Scatter plots for feature relationships
-  - Histograms for distributions
-  - Box plots for outlier detection
-- Libraries: Seaborn, Matplotlib
+  - Scatter plots for feature relationships, Histograms for distributions, Box plots for outlier detection.
+
+- Trained a Logistic Regression model
+- Evaluated using accuracy and a confusion matrix.
 
 ---
 
@@ -40,7 +40,7 @@ This repository contains tasks completed as part of a **Virtual Internship** in 
 - Handled missing data
 - Encoded categorical features
 - Trained a Logistic Regression model
-- Evaluated using accuracy and confusion matrix
+- Evaluated using accuracy and a confusion matrix
 - Visualized important feature relationships
 
 ---
@@ -50,7 +50,8 @@ This repository contains tasks completed as part of a **Virtual Internship** in 
 - Cleaned and encoded categorical features (gender, geography)
 - Trained Decision Tree Classifier
 - Visualized feature importance
-- Goal: Identify customers likely to leave the bank
+- Goal:
+- Identify customers likely to leave the bank
 
 ---
 
@@ -58,20 +59,48 @@ This repository contains tasks completed as part of a **Virtual Internship** in 
 - Dataset: Medical Cost Personal Dataset
 - Trained a Linear Regression model to predict insurance charges
 - Visualized the effect of BMI, age, and smoking status
+- 
 - Evaluated model using:
   - **MAE** (Mean Absolute Error)
   - **RMSE** (Root Mean Square Error)
 
 ---
-## How to Use
 
-## Contact
+## Task 5: Personal Loan Acceptance Prediction
 
-If you have any questions or suggestions, feel free to open an issue or connect with me on LinkedIn.
+- Dataset: Bank Marketing dataset
+- Preprocessed data by handling missing values and encoding categorical features using Label Encoding
+- Visualized data through:
+- Personal Loan Acceptance by Job, Detected strong relationships and multicollinearity, Job vs Age to identify spread and       outliers, and Feature Importance Plot highlighting top predictors of loan acceptance.
+
+- Trained a Random Forest Classifier for prediction
+- Evaluated using accuracy score, classification report, and confusion matrix.
 
 ---
 
-> More tasks will be added soon (e.g., Task 5, etc.)
+## Insights & Learnings
+
+Through these internship tasks, I gained valuable hands-on experience in applying Data Science and Machine Learning techniques to solve real-world problems. Key learnings include:
+
+- Data Preprocessing – handling missing values, encoding categorical data, and scaling features.
+- Exploratory Data Analysis (EDA) – using Seaborn and Matplotlib to visualize distributions, correlations, and outliers.
+- Model Building & Evaluation – training classification and regression models, interpreting results through metrics like       accuracy, MAE, RMSE, and confusion matrices.
+- Feature Engineering – identifying and selecting important features that improve model performance.
+- Real-World Applications – predicting loan approvals, insurance costs, customer churn, and more.
+- Tools & Workflow – improving my proficiency in Python, Pandas, Scikit-learn, and Jupyter Notebook for end-to-end data projects.
+
+This internship has strengthened my problem-solving skills, improved my ability to work with diverse datasets, and enhanced my confidence in implementing ML solutions from scratch.
+
+
+## How to Use
+    OR
+## Contact
+
+If you have any questions or suggestions, please don't hesitate to open an issue or connect with me on
+My LinkedIn: linkedin.com/in/laiba-jawaid/
+
+---
+
 
 
 
