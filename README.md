@@ -98,7 +98,7 @@ This internship has strengthened my problem-solving skills, improved my ability 
 
 If you have any questions or suggestions, please don't hesitate to open an issue or connect with me on:
 
-- My LinkedIn: linkedin.com/in/laiba-jawaid/
+- My LinkedIn: https://www.linkedin.com/in/laiba-jawaid/
 
 ---
 
