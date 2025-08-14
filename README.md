@@ -59,7 +59,7 @@ This repository contains tasks completed as part of a **Virtual Internship** in 
 - Dataset: Medical Cost Personal Dataset
 - Trained a Linear Regression model to predict insurance charges
 - Visualized the effect of BMI, age, and smoking status
-- 
+ 
 - Evaluated model using:
   - **MAE** (Mean Absolute Error)
   - **RMSE** (Root Mean Square Error)
@@ -93,11 +93,12 @@ This internship has strengthened my problem-solving skills, improved my ability 
 
 
 ## How to Use
-    OR
+  OR
 ## Contact
 
-If you have any questions or suggestions, please don't hesitate to open an issue or connect with me on
-My LinkedIn: linkedin.com/in/laiba-jawaid/
+If you have any questions or suggestions, please don't hesitate to open an issue or connect with me on:
+
+- My LinkedIn: linkedin.com/in/laiba-jawaid/
 
 ---
 
