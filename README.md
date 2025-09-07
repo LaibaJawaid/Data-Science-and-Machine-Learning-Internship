@@ -94,6 +94,11 @@ Through these internship tasks, I gained valuable hands-on experience in applyin
 
 This internship has strengthened my problem-solving skills, improved my ability to work with diverse datasets, and enhanced my confidence in implementing ML solutions from scratch.
 
+------
+
+##  Part-II of Data Science internship is here (link) : https://github.com/LaibaJawaid/Data-Science-Internship-Tasks-Part-II
+
+------
 
 ## How to Use
   OR
@@ -104,8 +109,5 @@ If you have any questions or suggestions, please don't hesitate to open an issue
 - My LinkedIn: https://www.linkedin.com/in/laiba-jawaid/
 
 ---
-
-
-
 
 
