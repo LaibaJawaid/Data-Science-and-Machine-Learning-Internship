@@ -18,7 +18,10 @@ This repository contains tasks completed as part of a **Virtual Internship** in 
 ## Tools Used
 
 - Jupyter Notebook
+- Python
 - VS Code
+- GutHub
+- Kaggle for Datasets
 
   ---
   
