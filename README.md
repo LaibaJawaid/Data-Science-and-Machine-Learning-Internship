@@ -96,7 +96,7 @@ This internship has strengthened my problem-solving skills, improved my ability 
 
 ------
 
-##  Part-II of Data Science internship is here (link) : https://github.com/LaibaJawaid/Data-Science-Internship-Tasks-Part-II
+##  Part-II of Data Science internship is here (link) : https://github.com/LaibaJawaid/DataScience-Internship-Tasks-Part-II
 
 ------
 
